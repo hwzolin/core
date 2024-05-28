@@ -910,6 +910,11 @@
         "name": "Hooks state"
       }
     },
+    "plug": {
+      "reset_summation_delivered": {
+        "name": "Reset summation delivered"
+      }
+    },
     "switch": {
       "switch": {
         "name": "[%key:component::switch::title%]"
